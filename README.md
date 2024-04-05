@@ -1,4 +1,4 @@
-# Storytelling-Case-Study-Airbnb Amrutha (CUSAT M.Tech PG Student)
+# Storytelling-Case-Study-Airbnb Amrutha 
  Visualise data related to Airbnbs in New York and present insights to various stakeholders.
  
  [python notebook](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Untitled.ipynb) Contains the python code and analysis.
