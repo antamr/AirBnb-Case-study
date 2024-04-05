@@ -3,10 +3,6 @@
  
  [python notebook](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Untitled.ipynb) Contains the python code and analysis.
  
- [PPT-I.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-I.pdf) This presentation is heavily technical and is for Data Analysis Managers and Lead Data Analysts.
- 
- [PPT-II.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-2.pdf) This presentation is for decision makers and stake holders.
- 
  ## Objective
 - To Provide insight into the current market situation.
 - Enhance our understanding of property and host acquisitions, 
@@ -16,23 +12,6 @@ teams
 
 prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, give two presentations to the following groups.
 
-## Presentation - I
-<kbd>  ![](images/p1.PNG)  </kbd>
-
-[PPT-I.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-I.pdf)
-
-This presentation is for,
-- Data Analysis Managers: These people manage the data analysts directly for processes and their technical expertise is basic.
-- Lead Data Analyst: The lead data analyst looks after the entire team of data and business analysts and is technically sound.
-
-## Presentation - II
-<kbd>  ![](images/p2.PNG)  </kbd>
-
-[PPT-II.pdf](https://github.com/ABHIJITHCV11/Storytelling-Case-Study-Airbnb/blob/main/Presentations/PPT-2.pdf)
-
-This presentation is for,
-- Head of Acquisitions and Operations, NYC: This head looks after all the property and host acquisitions and operations. Acquisition of the best properties, price negotiation, and negotiating the services the properties offer falls under the purview of this role.
-- Head of User Experience, NYC: The head of user experience looks after the customer preferences and also handles the properties listed on the website and the Airbnb app. Basically, the head of user experience tries to optimise the order of property listing in certain neighbourhoods and cities in order to get every property the optimal amount of traction.
 
 ## Dashboard
 
